@@ -98,7 +98,7 @@ namespace RPBD
             {
                 rentTable.Rows.Add(item.buildingName, item.buildingAddress, item.roomName, item.roomSquare, item.renterName, item.renterAddress, item.renterFIO, item.renterPhone, item.rentNumber, item.rentNumberData, item.rentStart, item.rentEnd);
             }
-// Допиши тут еще лоад дату, а то не ебу как ее писать
+// Допиши тут еще лоад дату, а то не ебу как ее писать 
             switch (this.Text)
             {
                 case "Здание":
